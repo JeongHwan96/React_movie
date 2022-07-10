@@ -1,0 +1,33 @@
+body {
+    background: #121211;
+    color: white;
+}
+
+.background {
+    width: 50%;
+    margin: 5% auto;
+    display: flex;
+
+
+    .title {
+        font-size: 3rem;
+    }
+
+    .genres {
+        font-size: 2rem;
+    }
+
+    .Main_img {
+        margin: 0 5% 0 0;
+
+
+    }
+
+
+
+    .desc {
+        color: white;
+        display: block;
+        font-size: 1.2rem;
+    }
+}
